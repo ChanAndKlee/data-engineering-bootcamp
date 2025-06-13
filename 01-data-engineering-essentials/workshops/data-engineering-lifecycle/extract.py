@@ -9,3 +9,4 @@ if __name__ == "__main__":
     data = response.json()
 
     # Your code here
+    print(url)
